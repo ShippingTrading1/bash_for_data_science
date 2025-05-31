@@ -1,1 +1,2 @@
-# bash_for_data_science
+
+# A brief guide on Bash for Data Science: Cross-Platform Command Line Mastery
